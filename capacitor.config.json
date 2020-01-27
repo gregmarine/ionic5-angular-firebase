@@ -1,0 +1,8 @@
+{
+  "appId": "com.gregmarine.starter",
+  "appName": "ionic5-angular-firebase",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
